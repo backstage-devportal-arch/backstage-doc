@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "Talend Official Documentation"
+  description: "Talend Official Documentation"
+  annotations:
+    github.com/project-slug: "alphabetek/backstage-doc"
+    backstage.io/techdocs-ref: github:https://github.com/alphabetek/backstage-doc
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "DOC team"

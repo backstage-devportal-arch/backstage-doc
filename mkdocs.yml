@@ -1,0 +1,8 @@
+site_name: "Talend Official Documentation"
+site_description: "Talend Official Documentation"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
